@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 - My name is Igor Deo Alves, I'm an computer science student at Universidade Federal Fluminense.
-- I'm currently a Software Developer Intern at Grana Capital.
+- I'm currently a Software Developer at MCS Markup.
 
 
 <div>
